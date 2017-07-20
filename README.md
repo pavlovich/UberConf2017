@@ -3,11 +3,11 @@
 ## Angular Mobile (Progressive Web Apps)
 * Slides: https://github.com/christinakayastha/UberConf2017/blob/master/presentations/AngularPWA.pdf
 * Vanilla Progressive Web App: 
-** https://github.com/christinakayastha/ProgressiveWebAppTutorial
-** http://tinyurl.com/uberweb2017
+  * https://github.com/christinakayastha/ProgressiveWebAppTutorial
+  * http://tinyurl.com/uberweb2017
 * Angular Progressive Web App: 
-** https://github.com/christinakayastha/MusicalBox
-** http://tinyurl.com/uberbox2017
+  * https://github.com/christinakayastha/MusicalBox
+  * http://tinyurl.com/uberbox2017
 
 ## Angular Material (Material Design)
 * Slides: 
