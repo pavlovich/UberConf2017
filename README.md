@@ -12,6 +12,6 @@
 
 ## Angular Fire (Firebase)
 * Slides:
-* Vanilla Firebase App:
+* Vanilla Firebase App: https://github.com/christinakayastha/FirebaseTutorial
 * Angular Firebase App:
 
