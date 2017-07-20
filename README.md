@@ -8,6 +8,12 @@
 * Angular Progressive Web App: 
   * https://github.com/christinakayastha/MusicalBox
   * http://tinyurl.com/uberbox2017
+* Resources:
+  * https://mobile.angular.io/
+  * https://jakearchibald.github.io/isserviceworkerready/
+  * https://developers.google.com/web/progressive-web-apps/
+  * https://codelabs.developers.google.com/codelabs/your-first-pwapp
+  * https://codelabs.developers.google.com/codelabs/push-notifications/index.html
 
 ## Angular Material (Material Design)
 * Slides: 
